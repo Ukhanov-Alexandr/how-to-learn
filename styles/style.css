@@ -15,7 +15,7 @@
   flex-direction: column;
   justify-content: center;
   background-color: #f2f2f2;
-  z-index: -1;
+
 }
 
 .logo {
@@ -68,6 +68,7 @@
   bottom: 0;
   right: 0;
   box-sizing: border-box;
+  z-index: 2;
 }
 
 .header__square-pic {
@@ -78,7 +79,7 @@
   right: 0;
   top: 64px;
   box-sizing: border-box;
-  z-index: -1;
+  z-index: 1;
 }
 
 
