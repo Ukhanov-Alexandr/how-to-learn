@@ -14,3 +14,4 @@ _Анимации_.
 _Prettier;_  
 _W3C Validator;_  
 _Live Server._
+>### [Ссылка на проект](https://how-to-learn2.vercel.app)
